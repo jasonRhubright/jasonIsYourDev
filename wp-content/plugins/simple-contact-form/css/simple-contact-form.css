@@ -1,0 +1,81 @@
+.form-block{
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ebebeb;
+  box-sizing: border-box;
+  margin: 0 0 15px;
+  background-color: #fff;
+  padding: 40px;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, .2);
+}
+
+.heading-2 {
+  box-sizing: border-box;
+  font-weight: bold;
+  line-height: 30px;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-family: Lato, sans-serif;
+  font-size: 25px;
+}
+
+.field-label {
+  font-family: Open Sans, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-fail {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #ffdede;
+    color: black !important;
+}
+
+ .w-input{
+    box-sizing: border-box;
+    font: inherit;
+    margin: 0;
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding: 8px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    vertical-align: middle;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+} 
+
+textarea.w-input, textarea.w-select {
+  height: auto;
+}
+
+#contact-submit {
+  box-sizing: border-box;
+  font: inherit;
+  margin: 0;
+  display: inline-block;
+  padding: 9px 15px;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: var(--black);
+  color: var(--main-brand-color);
+  border-radius: 5px;
+  align-self: flex-end;
+  margin-top: 8px;
+  font-weight: 600;
+  -webkit-appearance: button;
+}
