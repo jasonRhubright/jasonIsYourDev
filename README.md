@@ -18,20 +18,6 @@ Welcome to my portfolio! This repository showcases the codebase for my personal 
 
 - **Advanced Custom Fields:** To manage extensive project metadata with precision, the capabilities of Advanced Custom Fields were harnessed. This architecture enables effortless updates to project listings and introductory text through the user-friendly interface of WordPress.
 
-## Getting Started
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/portfolio.git
-    ```
-
-2. Install dependencies.
-
-3. Customize the WordPress template and plugin according to your requirements.
-
-4. Deploy the WordPress site.
-
 ## Contributions
 
 Suggestions are welcome, but I do have to fly solo on this since it is my portfolio. :)
