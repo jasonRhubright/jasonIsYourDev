@@ -20,7 +20,7 @@ get_header();
       <h1 class="utility-heading">Page Not Found</h1>
       <div class="frosted-glass">
         <div class="_404">404</div>
-        <div class="_404-details">The page you are looking for doesn&#x27;t exist or has been moved.</div>
+        <div class="_404-details">Whoops! Should have used a redirect! Use the button below to go back to the homepage.</div>
         <div class="horizontal-divider"></div>
         <a href="/" class="utility-button w-button">Back to homepage</a>
       </div>
